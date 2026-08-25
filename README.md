@@ -118,11 +118,10 @@ he_litterman` pins this down. If you want τ to bite, supply an absolute Ω.
   short legs.
 - A 10-stock universe is a sandbox, not an investable strategy.
 
-  ## 👤 Author
+## 👤 Author
 
-**Anik Chakraborty**
-MSc Economics, IIT Kanpur
+ **Anik Chakraborty**
+   MSc Economics, IIT Kanpur
 
-**Aryan Anand**
-MSc Economics, IIT Kanpur
-  
+ **Aryan Anand**
+   MSc Economics, IIT Kanpur
